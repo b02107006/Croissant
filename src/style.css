@@ -45,7 +45,9 @@ h1 {
   margin-inline-start: 40px;
   margin-inline-end: 20px;
 }
-
+h2 {
+  text-align: center;
+}
 ul {
   margin-left: 40px;
   margin-right: 40px;
